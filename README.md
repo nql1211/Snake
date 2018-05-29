@@ -1,9 +1,8 @@
-Tên Game: Snake
+# Snake
++Tác giả: Nguyễn Quang Linh
++Thời gian hoàn thành: 2 tuần
 +
- Tác giả: Nguyễn Quang Linh
-+
- Thời gian hoàn thành: 2 tuần
- Luật chơi:
++Luật chơi:
    - Mỗi thức ăn tương ứng với 10 điểm.
    - Dùng các phím di chuyển điều khiển con rắn ăn quả được đặt ngẫu nhiên.
    - Sau khi ăn quả thân con rắn sẽ dài ra và tốc độ di chuyển của con rắn cũng tăng lên.
